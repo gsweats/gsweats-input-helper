@@ -1,6 +1,7 @@
 {
     "conventionalCommits.scopes": [
         "ignore",
-        "keyboard-shortcut-conflict"
+        "keyboard-shortcut-conflict",
+        "vscode"
     ]
 }
