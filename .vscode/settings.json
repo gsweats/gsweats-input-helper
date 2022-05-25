@@ -2,6 +2,7 @@
     "conventionalCommits.scopes": [
         "ignore",
         "keyboard-shortcut-conflict",
-        "vscode"
+        "vscode",
+        "insert-date-time"
     ]
 }
