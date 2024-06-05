@@ -4,6 +4,7 @@
         "keyboard-shortcut-conflict",
         "vscode",
         "insert-date-time",
-        "windows"
+        "windows",
+        "bulk"
     ]
 }

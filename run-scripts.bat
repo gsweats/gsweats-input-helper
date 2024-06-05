@@ -1,0 +1,1 @@
+for %%i in (*.ahk) do %%i
