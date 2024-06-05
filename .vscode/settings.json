@@ -3,6 +3,7 @@
         "ignore",
         "keyboard-shortcut-conflict",
         "vscode",
-        "insert-date-time"
+        "insert-date-time",
+        "windows"
     ]
 }
