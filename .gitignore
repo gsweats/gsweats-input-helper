@@ -1,1 +1,4 @@
 *.exe
+
+# Krita Temp Files (e.g. `input-helper-box.kra~`)
+*.*~

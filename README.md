@@ -8,6 +8,7 @@ Likely more accurate to say:
 but that wouldn't let me express my brain's awesome flash of a Hamburger Helper Box (copyright/trademark/whatever, I am sure, all credit to them, so on and so forth, plz no legal action for my childish, programmer not designer, image below, used b/c of the warm fuzzy good feeling I get thinking about Hamburger Helper).
 
 > *Source: [Hamburger Helper Box Photo](https://www.heb.com/product-detail/hamburger-helper-deluxe-cheeseburger-macaroni/1479338)*
+> Since the website tries to hide it, here's a [Direct Link to Photo](https://images.heb.com/is/image/HEBGrocery/001479338-1?jpegSize=150&hei=1400&fit=constrain&qlt=75)
 
 Those warm, good, fuzzy feelings come once you start using these scripts, learn the **"Greg Way"** *(Gregway? Gregweigh?)*, then break the "Greg way" and make it "your way" ™️.
 
