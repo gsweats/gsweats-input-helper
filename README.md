@@ -18,16 +18,16 @@
   Also, markdown renderer in vscode did not like indentation
   of the column.... shows the quotes (> *Source:....) as code.
 -->
-<ul style="column-count:2;list-style-type:none;">
-<li align="center"> 
-  <img
-    alt="Input Helper Box"
-    title="👋 Helllloooo!"
-    src="branding/hamburger-helper-box/input-helper-box.jpg"
-  />
-</li>
-<li>
-
+<table cellspacing="0" cellpadding="0" style="border: none;">
+  <td width="30%"> 
+    <img
+      alt="Input Helper Box"
+      title="👋 Helllloooo!"
+      src="branding/hamburger-helper-box/input-helper-box.jpg"
+    />
+  </td>
+  <td>
+<!-- DO NOT INDENT or Markdown renders as code block -->
 Probably more useful to say:
 
 > Mouse/Keyboard/Microphone scripts/profiles/settings/configs/
@@ -42,8 +42,9 @@ but that wouldn't let me express my brain's awesome job flashing the image of a 
 
 *(copyright/trademark/whatever, I am sure, all credit to them, so on and so forth, plz no legal action for my childish, progrghammer not designer, image below, used b/c of the warm fuzzy good feeling I get thinking about Hamburger Helper).*
 
-</li>
-</ul>
+
+</td>
+</table>
 
 Those warm, good, fuzzy feelings come once you start using these scripts, learn the **"Greg Way"** *(Gregway? Gregweigh?)*, then break the "Greg way" and make it "your way" ™️.
 
