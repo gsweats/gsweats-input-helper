@@ -1,6 +1,13 @@
 # `Input Helper` by Greg Sweats
 
-![Input Helper Box](branding/hamburger-helper-box/input-helper-box.jpg)
+<div align="center">
+  <img
+    alt="Input Helper Box"
+    title="👋 Helllloooo!"
+    src="branding/hamburger-helper-box/input-helper-box.jpg"
+    style="margin: 0 auto"
+  />
+</div>
 
 Likely more accurate to say:
 
