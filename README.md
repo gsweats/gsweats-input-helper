@@ -1,23 +1,49 @@
 # `Input Helper` by Greg Sweats
 
-<div align="center">
+
+
+<!--
+  MARKDOWN/HTML STYLING NOTE:
+
+  - Felt like waste of space not having text besides box photo.
+  - Had to use HTML for the box photo to center.
+  - So let's go nuts!
+
+  (align="center") is shorter than
+  (style="text-align:center;");
+  I'm not just a dumb old dinosaur.
+  At least not all the time. ;)
+  @gsweats 2024-07-02 at 21:23:49 MDT (GMT -06:00)
+  ...
+  Also, markdown renderer in vscode did not like indentation
+  of the column.... shows the quotes (> *Source:....) as code.
+-->
+<ul style="column-count:2;list-style-type:none;">
+<li align="center"> 
   <img
     alt="Input Helper Box"
     title="👋 Helllloooo!"
     src="branding/hamburger-helper-box/input-helper-box.jpg"
-    style="margin: 0 auto"
   />
-</div>
+</li>
+<li>
 
-Likely more accurate to say:
+Probably more useful to say:
 
-> `Mouse/Keyboard/Microphone/...
-> scripts/profiles/settings/configs/...`
+> Mouse/Keyboard/Microphone scripts/profiles/settings/configs/
 
-but that wouldn't let me express my brain's awesome flash of a Hamburger Helper Box (copyright/trademark/whatever, I am sure, all credit to them, so on and so forth, plz no legal action for my childish, progrghammer not designer, image below, used b/c of the warm fuzzy good feeling I get thinking about Hamburger Helper).
+but that wouldn't let me express my brain's awesome job flashing the image of a Hamburger Helper Box across my brain!
+
+<br>
 
 > *Source: [Hamburger Helper Box Photo](https://www.heb.com/product-detail/hamburger-helper-deluxe-cheeseburger-macaroni/1479338)*
 > Since the website tries to hide it, here's a [Direct Link to Photo](https://images.heb.com/is/image/HEBGrocery/001479338-1?jpegSize=150&hei=1400&fit=constrain&qlt=75)
+
+
+*(copyright/trademark/whatever, I am sure, all credit to them, so on and so forth, plz no legal action for my childish, progrghammer not designer, image below, used b/c of the warm fuzzy good feeling I get thinking about Hamburger Helper).*
+
+</li>
+</ul>
 
 Those warm, good, fuzzy feelings come once you start using these scripts, learn the **"Greg Way"** *(Gregway? Gregweigh?)*, then break the "Greg way" and make it "your way" ™️.
 
