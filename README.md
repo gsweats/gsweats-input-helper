@@ -109,7 +109,9 @@ Measurement Id
 G-BFLK1H24VB
 ```
 
+#### ❌ Standard HTML/JS Tag
 <!-- Google tag (gtag.js) -->
+```html
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-BFLK1H24VB&foo="></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -118,3 +120,19 @@ G-BFLK1H24VB
 
   gtag('config', 'G-BFLK1H24VB');
 </script>
+```
+
+#### ❓ Tracking Image?
+
+```html
+<img
+  src="https://www.google-analytics.com/__utm.gif?utmwv=5.1.7&utms=1&utmn=1894752493&utmhn=www.lunametrics.com&utmcs=UTF-8&utmsr=1280%C3%971024&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=10.3%20r183&utmdt=Tracking%20QR%20Codes%20with%20Google%20Analytics&utmhid=1681965357&utmr=http%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dtracking%2Bqr%2Bcodes%26ie%3Dutf-8%26oe%3Dutf-8%26aq%3Dt%26rls%3Dorg.mozilla%3Aen-US%3Aofficial%26client%3Dfirefox-a&utmp=%2Fblog%2F2011%2F08%2F18%2Ftracking-qr-codes-google-anaytics%2F&utmac=UA-296882-1&utmcc=__utma%3D230887938.1463229748.1317737798.1317737798.1317737798.1%3B%2B__utmz%3D230887938.1317737798.1.1.utmcsr%3Dgoogle%7Cutmccn%3D(organic)%7Cutmcmd%3Dorganic%7Cutmctr%3Dtracking%2520qr%2520codes%3B&utmu=DC~"
+  alt="Tracker - sorry - experimenting"
+/>
+```
+Actual HTML below...
+
+<img
+  src="https://www.google-analytics.com/__utm.gif?utmwv=5.1.7&utms=1&utmn=1894752493&utmhn=www.lunametrics.com&utmcs=UTF-8&utmsr=1280%C3%971024&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=10.3%20r183&utmdt=Tracking%20QR%20Codes%20with%20Google%20Analytics&utmhid=1681965357&utmr=http%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dtracking%2Bqr%2Bcodes%26ie%3Dutf-8%26oe%3Dutf-8%26aq%3Dt%26rls%3Dorg.mozilla%3Aen-US%3Aofficial%26client%3Dfirefox-a&utmp=%2Fblog%2F2011%2F08%2F18%2Ftracking-qr-codes-google-anaytics%2F&utmac=UA-296882-1&utmcc=__utma%3D230887938.1463229748.1317737798.1317737798.1317737798.1%3B%2B__utmz%3D230887938.1317737798.1.1.utmcsr%3Dgoogle%7Cutmccn%3D(organic)%7Cutmcmd%3Dorganic%7Cutmctr%3Dtracking%2520qr%2520codes%3B&utmu=DC~"
+  alt="Tracker - sorry - experimenting"
+/>
